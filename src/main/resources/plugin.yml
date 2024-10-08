@@ -1,0 +1,6 @@
+name: Redstone-Helper
+version: 'v0.1-alpha'
+main: com.raphael03franzen.redstoneHelper.RedstoneHelper
+api-version: '1.21'
+authors: [ raphael03franzen ]
+description: A plugin to aid in Redstone development
