@@ -1,0 +1,13 @@
+name: Redstone-Helper
+version: '0.2'
+main: com.raphael03franzen.redstoneHelper.RedstoneHelper
+api-version: '1.21'
+authors: [ raphael03franzen ]
+description: A plugin to aid in Redstone development
+
+
+commands:
+  barrel:
+    description: Gives a Barrel with the designated signal strength
+    usage: /barrel {1-15}
+    permission: minecraft.command.give
